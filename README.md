@@ -48,9 +48,13 @@ em nenhuma amostra do teste.
 
 ## Uso de ferramentas de IA
 - **Ferramenta:** Claude (Anthropic)
-- **Finalidade:** apoio na estruturação do notebook, geração de células de código e revisão das explicações em markdown
-- **Partes utilizadas:** seções 5.2, 5.3, 5.4, 5.6 e 5.7
-- **Verificação:** todo código gerado foi revisado, executado e validado pelos integrantes antes de ser incluído no notebook
+- **Finalidade:** apoio na estruturação do notebook e revisão das explicações em markdown
+- **Partes utilizadas:** seções 5.2, 5.6 e 5.7
+- **Verificação:** cada célula gerada foi executada e conferida pelos integrantes.
+  Os resultados numéricos (distribuições, métricas, matriz de confusão) foram
+  comparados com o esperado com base na teoria vista em aula. As explicações em
+  markdown foram revisadas e reescritas onde necessário para refletir a
+  interpretação do grupo, não apenas o output da ferramenta.
 
 ## Divisão das contribuições
 - **Guilherme:** seções 5.2 e 5.3
