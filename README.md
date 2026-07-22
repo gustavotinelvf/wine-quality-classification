@@ -38,6 +38,7 @@ em nenhuma amostra do teste.
 
 ## Organização dos arquivos
 ├── QualidadeVinho.ipynb # Notebook principal
+
 ├── README.md
 
 ## Como executar
