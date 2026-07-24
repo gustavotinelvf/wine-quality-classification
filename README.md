@@ -62,4 +62,4 @@ em nenhuma amostra do teste.
 - **Laísla:** seções 5.1, 5.4 e 5.5
 
 ## Vídeo
-🔗 *(inserir link do vídeo aqui)*
+🔗 *[(https://drive.google.com/file/d/1NqnyQK6CG0lMzfMqxS4m5j8YXTO08OvP/view?usp=sharing)*
